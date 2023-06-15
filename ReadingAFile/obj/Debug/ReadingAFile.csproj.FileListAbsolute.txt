@@ -1,0 +1,10 @@
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\bin\Debug\ReadingAFile.exe.config
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\bin\Debug\ReadingAFile.exe
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\bin\Debug\ReadingAFile.pdb
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.exe
+C:\Users\GAMAY\source\repos\ReadingAFile\ReadingAFile\obj\Debug\ReadingAFile.pdb
